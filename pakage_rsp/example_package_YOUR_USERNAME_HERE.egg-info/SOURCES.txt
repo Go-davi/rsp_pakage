@@ -1,0 +1,8 @@
+LICENSE 
+README.md
+setup.cfg
+setup.py
+pakage_rsp/example_package_YOUR_USERNAME_HERE.egg-info/PKG-INFO
+pakage_rsp/example_package_YOUR_USERNAME_HERE.egg-info/SOURCES.txt
+pakage_rsp/example_package_YOUR_USERNAME_HERE.egg-info/dependency_links.txt
+pakage_rsp/example_package_YOUR_USERNAME_HERE.egg-info/top_level.txt
